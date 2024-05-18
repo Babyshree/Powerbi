@@ -3,21 +3,14 @@
 ## Folder Overview:
 This folder contains a series of Power BI project dashboards designed to visualize and analyze different datasets for various business needs. Each project focuses on a specific area of analysis, providing interactive and insightful reports to support data-driven decision-making.
 
-## Contents:
-Adventure works
-forage_bi
-Onlineweb_dataset
-Super store
-Super store_multiplefiles
-Titanic
-
 ## Project Subfolders:
-
-Each project dashboard is organized in its own subfolder. For example:
-Sales Analysis Dashboard
-Financial Performance Dashboard
-Customer Insights Dashboard
-Marketing Campaign Dashboard
+- Adventure works
+- forage_bi
+- Onlineweb_dataset
+- Super store
+- Super store_multiplefiles
+- Titanic
+Each project dashboard is organized in its own subfolder. 
 
 ## Data Sources:
 Excel, CSV, or other data files used as the data source for the dashboards.
